@@ -30,9 +30,10 @@
 
 ### ✅ 팀원 소개
 
-|[@박유진](https://github.com/YUJINDL01)  |[@윤환](https://github.com/MNYH) |[@이세진](https://github.com/tpwls9494) | [@전성원](https://github.com/Hack012) |[@조민훈](https://github.com/alche22)|
-|-----------------------------------------|----------------------------------------|------------------------------------------|------------------------------------------|----------------------------------------|
-|<img src="https://github.com/user-attachments/assets/c8ce1260-d6ca-4659-89c3-5d9f06847812" width="150" height="150" /> | <img src="https://github.com/user-attachments/assets/c8ce1260-d6ca-4659-89c3-5d9f06847812" width="150" height="150" /> | <img src="https://github.com/user-attachments/assets/c80b5b8d-4a42-4ed1-950f-b0ea5b078f51" width="150" height="150"> | <img src="https://github.com/user-attachments/assets/7fdacbe3-b568-4c42-8758-d189ec522bc3" width="150" height="150" /> |<img src="https://github.com/user-attachments/assets/e7dd2863-b577-4385-a46c-7163efb0bfe4" width="150" height="150"> |
+|[@조이현](https://github.com/SIQRIT) |[@박유진](https://github.com/YUJINDL01)  |[@윤환](https://github.com/MNYH) |[@이세진](https://github.com/tpwls9494) | [@전성원](https://github.com/Hack012) |[@조민훈](https://github.com/alche22)|
+|-----------------------------------------|-----------------------------------------|----------------------------------------|------------------------------------------|------------------------------------------|----------------------------------------|
+|<img src="https://github.com/user-attachments/assets/4d1e0f03-ac99-4174-be43-a3c9306d472e" width="150" height="150" /> |<img src="https://github.com/user-attachments/assets/c8ce1260-d6ca-4659-89c3-5d9f06847812" width="150" height="150" /> | <img src="https://github.com/user-attachments/assets/c8ce1260-d6ca-4659-89c3-5d9f06847812" width="150" height="150" /> | <img src="https://github.com/user-attachments/assets/c80b5b8d-4a42-4ed1-950f-b0ea5b078f51" width="150" height="150"> | <img src="https://github.com/user-attachments/assets/7fdacbe3-b568-4c42-8758-d189ec522bc3" width="150" height="150" /> |<img src="https://github.com/user-attachments/assets/e7dd2863-b577-4385-a46c-7163efb0bfe4" width="150" height="150"> |
+|25.04.23 - 25.05.20 | 25.04.23 - 25.06.20 | 25.04.23 - 25.06.20 | 25.04.23 - 25.06.20 | 25.04.23 - 25.06.20 | 25.04.23 - 25.06.20 |
 
 ---
 
@@ -260,19 +261,22 @@ PASS는 사용자 질의부터 특허 명세서 초안 생성, 수정, 평가, �
 
 ## 11. 한 줄 회고
 
-- ❤️ **박유진**
+- 🧡 **조이현** (25.04.23 - 25.05.20)
+  - DB 설계 및 파인튜닝 데이터를 데이터 정합성 원칙에 따라 직접 설계 및 Qwen3 모델 학습을 통해 의도한 형식과 텍스트 생성을 도출함으로써, **데이터의 품질관리에 대한 중요성**이야말로 아무리 강조해도 지나치지 않음을 다시 한 번 알 수 있었다.
+
+- ❤️ **박유진** (25.04.23 - 25.06.20)
   - 파인튜닝 데이터를 직접 설계하고 SFT 방식으로 Qwen3 모델을 학습시키며, 단순한 생성형 AI 응답을 넘어 실제 기술 설명을 특허 명세서 형식으로 변환하는 과정에서 특허 도메인과 AI 도메인 지식을 융합 학습시키는 어려움과 추가 학습의 필요성을 깊이 체감할 수 있었습니다.
-  - 
-- 💛 **윤환**  
+
+- 💛 **윤환** (25.04.23 - 25.06.20)
   - 기획부터 배포까지 전 과정을 경험하며,  **서비스가 왜 필요한지, 누구에게 어떤 가치를 줄 수 있는지를 이해하는 것이 가장 핵심**적임을 깨달았습니다. 이를 위해 **사용자 입장에서 문제를 정의하고 해결책**을 고민해보며, 결과적으로 기획·설계·개발·배포가 어떻게 **유기적으로 맞물리는지 실감**할 수 있었습니다.
 
-- 💚 **이세진**  
+- 💚 **이세진** (25.04.23 - 25.06.20)
   - Docker를 이용해 FastAPI 모델 서버를 컨테이너화하면서, 환경 일관성 확보의 중요성과 Docker의 유용성을 알게 되었습니다. 이 경험을 통해 Django와 FastAPI 서버를 분리해도 안정적으로 배포 및 실행이 가능함을 직접 확인할 수 있었습니다.
 
-- 💙 **전성원**  
+- 💙 **전성원** (25.04.23 - 25.06.20)
   - 실제 이혼 상담 흐름을 구현하기 위해 프론트와 백엔드를 유기적으로 연결하며 실무형 챗봇을 완성해가는 과정이 인상 깊었습니다. 사용자 중심의 UX 설계와 법률 도메인 특화 AI 개발이 함께 성장한 값진 경험이었습니다.
  
-- 💜 **전성원**  
+- 💜 **조민훈** (25.04.23 - 25.06.20)
   - 실제 이혼 상담 흐름을 구현하기 위해 프론트와 백엔드를 유기적으로 연결하며 실무형 챗봇을 완성해가는 과정이 인상 깊었습니다. 사용자 중심의 UX 설계와 법률 도메인 특화 AI 개발이 함께 성장한 값진 경험이었습니다.
 
 ---
